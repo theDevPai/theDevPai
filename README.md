@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **painandan02@gmail.com**
 
-- ⚡ Fun fact **I like to CSSBattle🎨**
+- ⚡ Fun fact **I like to <a href="cssbattle.dev">CSSBattle🎨</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
