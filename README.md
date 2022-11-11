@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Firebase**
 
-- 💻 I'm currently learning **Native Android dev & some JS Frameworks**
+- 💻 I'm learning **Native Android dev & some JS Frameworks**
 
 - 📫 How to reach me **painandan02@gmail.com**
 
