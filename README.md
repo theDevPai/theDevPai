@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nandan0503" target="blank"><img src="https://img.shields.io/twitter/follow/nandan0503?logo=twitter&style=for-the-badge" alt="nandan0503" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter for Arena**
+- 🔭 I’m currently working on **Flutter Projects**
 
 - 🤝 I’m looking for help with **Firebase**
 
