@@ -13,7 +13,7 @@
 
 - 💻 I'm learning **Native Android dev & some JS Frameworks**
 
-- 📫 How to reach me **painandan02@gmail.com**
+- 📫 How to reach me **devpai0503@gmail.com**
 
 - ⚡ Fun fact **I like to <a href="https://cssbattle.dev/" target="_blank">CSSBattle🎨</a>**
 
