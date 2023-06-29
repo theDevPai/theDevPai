@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nandan0503" target="blank"><img align="center" src="https://about.twitter.com/en/who-we-are/brand-toolkit" alt="nandan0503" height="30" width="40" /></a>
+<a href="https://twitter.com/nandan0503" target="blank"><img align="center" src="https://www.freepik.com/free-photos-vectors/twitter-logo" alt="nandan0503" height="30" width="40" /></a>
 </p>
 
 <table cellspacing="0" cellpadding="0">
