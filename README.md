@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/nandan0503" target="blank"><img src="https://img.shields.io/twitter/follow/nandan0503?logo=twitter&style=for-the-badge" alt="nandan0503" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter Projects**
+- 🔭 I’m currently working on **Microsoft PowerBI at Electrono Solutions**
 
-- 🤝 I’m looking for help with **Firebase**
+- 🤝 I’m looking for help with **PowerBI**
 
-- 💻 I'm learning **Native Android dev & some JS Frameworks**
+- 💻 I'm learning **DAX and PowerBI**
 
 - 📫 How to reach me **devpai0503@gmail.com**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nandan0503" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="nandan0503" height="30" width="40" /></a>
+<a href="https://twitter.com/nandan0503" target="blank"><img align="center" src="https://about.twitter.com/en/who-we-are/brand-toolkit" alt="nandan0503" height="30" width="40" /></a>
 </p>
 
 <table cellspacing="0" cellpadding="0">
