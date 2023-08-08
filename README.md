@@ -1,5 +1,5 @@
-![MasterHead](https://media.tenor.com/dyvY6atGc-oAAAAC/neo-album-cover.gif)
 <h1 align="center">Hi 👋, I'm Nandan Pai</h1>
+![MasterHead](https://media.tenor.com/dyvY6atGc-oAAAAC/neo-album-cover.gif)
 <h3 align="center">A passionate frontEnd developer from 📍Bangalore, India</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/316/31616.gif">
 
