@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/nandan0503" target="blank"><img src="https://img.shields.io/twitter/follow/nandan0503?logo=twitter&style=for-the-badge" alt="nandan0503" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analytics tools**
+- 🔭 I’m currently working on **API Development & Open Source Software**
 
-- 🤝 I’m looking for help with **R & Python**
+- 🤝 I’m looking for help with **React.js & Node.js**
 
-- 💻 I'm learning **Python and R for Data Analytics on PowerBI**
+- 💻 I'm learning **Competitive Programming in C++**
 
 - 📫 How to reach me **devpai0503@gmail.com**
 
