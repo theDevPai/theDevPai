@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **API Development & Open Source Software**
 
-- 🤝 I’m looking for help with **React.js & Node.js**
+- 🤝 I’m looking for help with **👆**
 
 - 💻 I'm learning **Competitive Programming in C++**
 
